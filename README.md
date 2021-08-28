@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="lochana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="lochana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lochana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](lochanaed@gmail.com)
+[<img align="left" alt="lochana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lochana-edirisinghe)
 [<img align="left" alt="lochana | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://edirisinghelochana5.medium.com/)
 
 <br />
