@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything
 - :office: I'm currently employed as a Software Engineer at WSO2
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with It experts
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play guitar / drums
 
@@ -68,4 +68,7 @@
   <img align="left" alt="lochana's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lochanaEdirisinghe&show_icons=true&hide_border=true" />
 
 </details>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lochanaEdirisinghe)](https://github.com/anuraghazra/github-readme-stats)
+
 
