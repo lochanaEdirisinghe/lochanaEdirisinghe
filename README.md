@@ -42,7 +42,7 @@
 - [Lamda Expressions in Java](https://edirisinghelochana5.medium.com/lambda-expression-in-java-a1dcfe5da210)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://edirisinghelochana5.medium.com/)
 
 
 
