@@ -45,6 +45,8 @@
 ➡️ [more blog posts...](https://edirisinghelochana5.medium.com/)
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lochanaEdirisinghe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📕 GitHub stats
 
 [![lochana's GitHub stats](https://github-readme-stats.vercel.app/api?username=lochanaEdirisinghe)](https://github.com/anuraghazra/github-readme-stats)
